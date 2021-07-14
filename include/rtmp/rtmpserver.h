@@ -1,5 +1,5 @@
 #ifndef _RTMPSERVER_H_
-#define _RTPMSERVER_H_
+#define _RTMPSERVER_H_
 #include <memory>
 #include "pthread.h"
 #include "rtmpstream.h"
