@@ -1,3 +1,9 @@
 [submodule "ext/libdatachannels"]
 	path = ext/libdatachannels
 	url = https://github.com/medooze/libdatachannels.git
+[submodule "ext/mp4v2/lib"]
+	path = ext/mp4v2/lib
+	url = https://github.com/medooze/mp4v2.git
+[submodule "ext/srtp/lib"]
+	path = ext/srtp/lib
+	url = https://github.com/cisco/libsrtp.git
